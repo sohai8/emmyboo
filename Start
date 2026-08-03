@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
 
+<h2>Background Image</h2>
+
+<p>A background image for a p element:</p>
+
+<p style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUf81JCjRoIgBsmIMSGxzzL3MltkkZs4BBotGW4oJyLQ&s');">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+
+</body>
+</html>
